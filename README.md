@@ -40,7 +40,7 @@ A simple and responsive web app that generates QR codes for any text or URL usin
     qr-code-generator/
     ├── index.html
     ├── style.css
-      └── script.js
+    
 
 ---
 
