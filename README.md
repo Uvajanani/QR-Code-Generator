@@ -50,7 +50,7 @@ A simple and responsive web app that generates QR codes for any text or URL usin
 
     
     git clone https://github.com/Uvajanani/QR-Code-Generator.git
-    cd travel-website
+    cd QR-Code-Generator
     
 ### 2. Run Locally
 Simply open the index.html file in your browser:
